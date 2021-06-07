@@ -1,5 +1,4 @@
-# advergame
-BATTLE DEV
+# Advergame | BattleDev | DFS20
 
 # Contexte :
 Au sein de votre agence de services numériques composée de 4 collaborateurs, vous avez en charge le
