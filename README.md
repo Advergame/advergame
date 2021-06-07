@@ -18,7 +18,7 @@ projet mais les éléments principaux sont connus :
 GIT à Metz [adresse]
 Google ClassRoom à Lyon [adresse]
 - La soutenance de projet aura lieu le vendredi 11 juin devant le client avec l’utilisation d’un
-powerpoint de type « elevator pitch » (exemples ici).
+powerpoint de type « elevator pitch » [exemples ici](https://slidebean.com/templates/3-minute-pitch-deck-for-demo-day).
 - Le vendredi 11 juin à 11h, le client annoncera l’équipe gagnante pour le challenge local.
 - De 11h à 15h30, l’équipe locale gagnante pourra être aidée par ses confrères pour finaliser son
 application.
